@@ -1,0 +1,16 @@
+flutter-mobile
+core/00-workflow.md
+core/01-oop-solid.md
+core/02-clean-code.md
+core/03-existing-code-first.md
+core/04-definition-of-done.md
+flutter/feature-structure.md
+flutter/state-management.md
+flutter/data-layer.md
+flutter/ui-rules.md
+flutter/constants-theming.md
+flutter/responsive.md
+flutter/navigation.md
+flutter/firebase.md
+flutter/errors-security.md
+flutter/conventions.md
